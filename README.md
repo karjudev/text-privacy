@@ -6,4 +6,5 @@ To run this code you'll need to setup a [Jupyter Notebook](https://jupyter.org/)
 - `pandas`
 - `feature-engine`
 - `matplotlib`
+
 In this way you can just explore the `Playground.ipynb` notebook.
